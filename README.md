@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <img src="https://github.com/KOT3314/KOT3314/assets/65190309/f51125a5-888a-4864-9f7b-e878ffcfee18" width="800"/>
 </div>
-### Hi there 👋
 
 
+# Hi my name is kot3, I'm ctf player from Team8
 
 <!--
 **KOT3314/KOT3314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
