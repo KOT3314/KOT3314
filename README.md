@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/F128Z941LnCKLHhQul/giphy-downsized-large.gif" width="100"/>
+  <img src="https://github.com/KOT3314/KOT3314/assets/65190309/f51125a5-888a-4864-9f7b-e878ffcfee18" width="800"/>
 </div>
 ### Hi there 👋
 
